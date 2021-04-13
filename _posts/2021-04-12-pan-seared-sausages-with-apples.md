@@ -1,6 +1,6 @@
 ---
 title: "Pan-Seared Sausages with Apples"
-excerpt: "A healthy veggies only recipe with a Southwestern flavor"
+excerpt: "Simple recipe, easy to make."
 header:
   image: /assets/images/pan-seared-sausage.jpg
   caption: "Zucchini"
