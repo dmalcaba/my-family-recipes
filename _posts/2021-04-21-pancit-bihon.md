@@ -1,6 +1,6 @@
 ---
 title: "Pancit Bihon"
-excerpt: "This Filipino noodle dish tastes "out of this world."
+excerpt: "This Filipino noodle dish tastes out of this world."
 header:
   image: /assets/images/pancit-bihon.jpg
   caption: "Pancit Bihon"
